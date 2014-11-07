@@ -1,0 +1,16 @@
+application:  gloomy-vm-dev
+module: python-flask
+version: hello-world
+runtime: custom
+api_version: 1
+threadsafe: on
+vm: true
+
+manua_scaling:
+	instances: 1
+vm_health_check:
+	enable_health_check: false
+
+handlers:
+- url: /.*
+  scrip: main.app
