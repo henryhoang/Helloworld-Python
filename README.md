@@ -17,4 +17,5 @@ Email: henry.hoang@j2.com
 
 docker pull henryhoang/myapp-py
 
+from localhost: ifconfig to find ip address
 Check in browser:  198.199.101.238:49153
