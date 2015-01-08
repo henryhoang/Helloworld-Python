@@ -1,8 +1,7 @@
 Helloworld-Python
 =================
 
-Hello world in python
-
+cd Helloworld-Python
 docker build -t henryhoang/myapp-py .
 docker run -d -P henryhoang/myapp-py
 docker ps
