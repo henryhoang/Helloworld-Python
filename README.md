@@ -16,3 +16,5 @@ Password:
 Email: henry.hoang@j2.com
 
 docker pull henryhoang/myapp-py
+
+Check in browser:  198.199.101.238:49153
