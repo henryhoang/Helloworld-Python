@@ -9,4 +9,4 @@ docker ps
 CONTAINER ID        IMAGE               COMMAND                CREATED             STATUS              PORTS                     NAMES
 a989919d7f98        myapp-py:latest     "/usr/bin/python2.7    6 seconds ago       Up 5 seconds        0.0.0.0:49153->8080/tcp   agita
 curl localhost:49153
-<h1> Hey Docker from j2 Global!</h1>root@Docker:~/Helloworld-Python#
+<h1> Hey Docker from j2 Cloud!</h1>root@Docker:~/Helloworld-Python#
